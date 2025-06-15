@@ -57,10 +57,10 @@
   </ul>
 
   <h2>Run Locally</h2>
-  <pre><code># Step 1: Install requirements
+  <pre><code>Step 1: Install requirements
 pip install streamlit pandas scikit-learn shap lime matplotlib
 
-# Step 2: Run the app
+Step 2: Run the app
 streamlit run app.py
   </code></pre>
 
