@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>CO₂ Emission Predictor WebApp</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 2rem; color: #333; }
-    h1, h2 { color: #2c3e50; }
-    code { background: #f4f4f4; padding: 0.2rem 0.4rem; border-radius: 4px; }
-    pre { background: #f4f4f4; padding: 1rem; border-radius: 4px; overflow-x: auto; }
-    ul { margin-left: 1.5rem; }
-  </style>
-</head>
-<body>
+
 
   <h1>CO₂ Emission Predictor WebApp</h1>
   <p>This is a machine learning-powered web application that predicts CO₂ emissions of vehicles based on technical specifications. It also provides <strong>explainable AI</strong> features using SHAP and LIME to interpret predictions.</p>
